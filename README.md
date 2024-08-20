@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Sharmila-Rajendran
-- 👀 Now i'm interested in full stack web development
-- 🌱  I'm learning full stack web development
+- Full Stack Developer
 -
 
 <!---
