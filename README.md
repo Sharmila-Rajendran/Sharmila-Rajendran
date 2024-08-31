@@ -1,5 +1,6 @@
+**<h1>👋 Hi, I’m Sharmila Rajendran</h1>**
+
 **<h2>About me</h2>**
-- Hi, I’m @Sharmila-Rajendran.
 - Final-year B.E. Computer Science Engineering student with a solid foundation in technology and engineering.
 - A passionate Full Stack Developer.
 - Excited to kickstart my career as a full stack developer with a focus on detail and quality.
@@ -49,7 +50,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-</p>
+</p><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharmila-Rajendran&show_icons=true&locale=en&layout=compact" alt="sharmila" /></p>
+
 
 
 
