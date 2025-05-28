@@ -6,9 +6,9 @@
 - Excited to kickstart my career as a full stack developer with a focus on detail and quality.
 
 **<h2>Tech Stack</h2>**
-- 💻 Java | C | Python
+- 💻 Java 
 - 🌐 HTML | CSS | JavaScript | Bootstrap | Reactjs
-- 🛢  MySQL | MongoDB 
+- 🛢  MySQL
 - 🔧 Git 
 
 **<h2>Connect with me</h2>**
